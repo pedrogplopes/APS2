@@ -1,0 +1,2 @@
+Referências:
+1. Design Patterns in Python: Proxy (https://medium.com/@amirm.lavasani/design-patterns-in-python-composite-09eba144f65e)
